@@ -1,4 +1,4 @@
-<script>
+<script async src="https://cse.google.com/cse.js?cx=81be3b6f4d1064994">
 	import {slide} from 'svelte/transition';
 
 	let visibles = {
